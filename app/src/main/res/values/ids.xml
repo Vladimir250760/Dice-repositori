@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="developers_recycler_view" type="id" />
+    <item name="bottom_navigation" type="id" />
+    <item name="about" type="id" />
+</resources>
